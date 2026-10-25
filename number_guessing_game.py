@@ -1,0 +1,8 @@
+- [ ] Import the random module
+- [ ] Make the computer pick a random number from 1 to 100
+- [ ] Ask the player for a guess (use input)
+- [ ] Turn the guess into a number (use int)
+- [ ] If the guess is too high, print "Too high"
+- [ ] If the guess is too low, print "Too low"
+- [ ] Repeat with a while loop until they guess right
+- [ ] Count the guesses and print the total at the end
